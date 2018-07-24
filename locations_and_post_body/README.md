@@ -1,6 +1,6 @@
 # Test for
 
-[Locations feature}(https://ktor.io/features/locations.html) with POST request body
+[Locations feature](https://ktor.io/features/locations.html) with POST request body
 
 # Reason
 
